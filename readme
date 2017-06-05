@@ -5,3 +5,10 @@ say no bug!
 year 2017 ~
 
 dj.net
+
+mkdir www
+
+git config --global user.name "xx"
+git config --global user.email "xxx@qq.com"
+git init
+
