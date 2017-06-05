@@ -1,0 +1,13 @@
+Github readme
+
+cd C:
+
+mkdir www
+
+cd www
+
+git config --global user.name "xx"
+
+git config --global user.email "xxx@qq.com"
+
+git init
