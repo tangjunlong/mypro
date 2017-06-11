@@ -1,2 +1,9 @@
-Welcome to Ts world.
-This's my first Git! Welcome to correct!
+Welcome to Ts world!
+This's my first Git!
+
+mkdir www
+
+git config --global user.name "xx"
+git config --global user.email "xxx@qq.com"
+git init
+
